@@ -1,0 +1,15 @@
+@media (max-width:992px) {
+	.hero-text {
+		float:;
+	}
+	.feature-item { 
+		margin-bottom:10px;
+	}
+	.blog-comments {
+		margin-bottom:20px;		
+	}
+	.follower {
+		margin-bottom:15px;
+	}
+
+}
